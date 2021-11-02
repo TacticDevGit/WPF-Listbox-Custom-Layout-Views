@@ -1,0 +1,23 @@
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.exe
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.deps.json
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.runtimeconfig.json
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.runtimeconfig.dev.json
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.dll
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\ref\Listbox Layouts.dll
+C:\Users\Jamie\source\repos\Listbox Layouts\bin\Debug\net5.0-windows\Listbox Layouts.pdb
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.g.resources
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.dll
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\ref\Listbox Layouts.dll
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.pdb
+C:\Users\Jamie\source\repos\Listbox Layouts\obj\Debug\net5.0-windows\Listbox Layouts.genruntimeconfig.cache
